@@ -16,7 +16,7 @@ import java.util.RandomAccess;
 public class RandomName extends AppCompatActivity {
     TextView name;
 
-    List<String> names = Arrays.asList("Gargi", "Priyanka", "Jayant", "Dhruv", "Zenab");
+    List<String> names = Arrays.asList("Gargi", "Mudit", "Jayant", "Dhruv", "Zenab");
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
